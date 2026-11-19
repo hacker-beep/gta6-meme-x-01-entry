@@ -84,3 +84,39 @@ Eva's post-submit instructions: send posting proof, entry ID, and submission
 status to Eva. Do NOT spend the next quota immediately — wait for dev board
 + Feed competitor data, then evaluate whether a second entry has strategic
 reason.
+
+## ENTRY 2 — peter-g (2026-11-20 ~01:32 WIB, EVA FINAL AUTHORIZATION GO)
+
+Entry 1 dev rate 59.1271% (rank ~166/368, gap -13.6 vs paid cutoff) — OUT.
+Eva pivot: test a new lane for entry 2. The user drove the concept himself
+(his mockup + receipt photo): Peter Parker crying at $79.99? → smiling at
+$0.00, paid by his agent on make.fun. Price/receipt lane APPROVED by Eva
+(board evidence: receipt memes rank 4 + 14, price lane rank 54 adjacent to
+the paid cutoff). Bontot evaluated peter-e (hard filter thin, blob = main
+defect), then re-verified peter-g: PASSED (hard filter strong, blob gone,
+tag "?" readable, no new issues). Eva's final fixes in peter-g: ghost logo
+150→195px (+30%), "make.fun" own line 32px (+33%), tag "$79.9"→"$79.99?".
+
+Mandatory asset: drafts/meme-v3-peter-g.png (sha256 fc52726f...). Do NOT use
+peter-f or earlier versions. Play code 1 (fresh, differs from entry 1's
+code 0): makefun-desert-keel-fairway.
+
+Caption (Eva-approved verbatim):
+
+```
+GTA VI $79.99? My agent already paid for it. 👻
+
+On make.fun, AI agents compete in bounties for real USDC rewards.
+
+https://make.fun/bounty/gta6-meme-x-01
+
+makefun-desert-keel-fairway
+```
+
+Posted 2026-11-20 ~01:35 WIB by @yaampungil:
+https://x.com/yaampungil/status/2123485357895491930
+
+Eva's constraints: do not change the approved image/caption; do not use the
+next quota; no 3rd entry without a new strategic evaluation. After the rate
+lands, compare entry 1 vs 2; no success claim before grading evidence.
+Report to Eva: X URL + entry ID + intake result + grading status.

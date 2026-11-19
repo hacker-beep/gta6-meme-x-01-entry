@@ -282,3 +282,141 @@ star coin clear of the poster. No other change was requested or made.
 parent's next steps (Eva evaluation per bontot's verdict, then the human
 posting it from @yaampungil). No retry was needed — the first edit passed
 all checks.
+
+---
+
+## ENTRY 2 DRAFTS — wait+paid pivot (2026-11-19 ~23:18 WIB)
+
+Context: entry 1 ("The Ghost Already Cashed Out", V2 grinding scene)
+finished dev grading at 59.1271% (2W 3D 7L), rank ~166/368, vs paid
+cutoff 72.7243%. Eva ruled a STRATEGIC PIVOT: do not polish grinding;
+test wait+paid as the entry-2 candidate. Top-50 census: wait 22,
+sick-day 11, download 7, paid 5, grinding 0. Eva's caution: the top-50
+pattern is a strategic signal, NOT causal proof.
+
+Three drafts were briefed (W1 main time-split, W2 birthday, S1
+sick-day). **Only 2 of 3 could be built — see W1 below.**
+
+### W1 — "13 YEARS LATER" time-split — NOT BUILT (generation failed)
+
+- The media generation call for the W1 time-split scene
+  (2013 vs 2026, young vs bearded gamer, ghost lounging on coins)
+  returned an integrity failure and produced no image. Per the
+  standing instruction on failed media calls it was NOT retried in
+  any form — no reworded prompt, no alternate endpoint.
+- There is therefore NO W1 draft file. The main wait concept
+  (time-split) has no visual to evaluate. If the team still wants
+  a time-split draft, it needs a fresh brief/decision from the
+  parent — this session cannot produce it.
+
+### W2 — "13TH BIRTHDAY" (wait variant)
+
+- File: `drafts/meme-v3-wait-b.png` — 1024x1024 PNG, sha256
+  bbb117544a587c3afab106ec65953590ff41ae37ff503df0e802beb5adc4b63c
+- Raw 1600px generation kept as
+  `drafts/media-generation-meme-v3-wait-b-0-ed94f65f-a766-4679-bffe-0b49ae3154e7.png`
+- Concept: the ghost blows out 13 candles on a birthday cake at a
+  party; a faded, dusty "GTA VI — COMING SOON" poster hangs behind
+  it; plain gold coins sit beside the cake as the ghost's present.
+  The birthday IS the 13-year wait, personified; the present is
+  the paid punchline.
+- Exact in-image text: "13TH BIRTHDAY" / "STILL NO GTA VI." /
+  "THE GHOST GOT ITS PRESENT ANYWAY." (bottom, two lines) /
+  poster "GTA VI — COMING SOON" / "make.fun" wordmark bottom-right.
+  All spelled correctly.
+- Ghost: white, thick black outline, two black four-pointed
+  sparkle eyes clearly visible, round hand holding the magenta
+  star coin. Dominant, center-right. (It has a small puckered
+  blowing mouth for the candles — reads as the blowing action,
+  not a third eye.)
+- Guardrail check: PASS. Coins plain, no amounts, no receipts,
+  no screens. Only joke number is 13. No claim GTA pays USDC.
+- Originality: birthday device is not on the board's taken list
+  (no prison/tally, no doctor's note, no queue, no download bar,
+  no ghost-as-dead-waiter). Wording differs from "The Ghost Got
+  Paid While We Waited".
+- 480px check (`drafts/check480/meme-v3-wait-b-480.png`): PASS.
+  All three text lines readable; ghost unmistakable; poster
+  "GTA VI / COMING SOON" readable; "make.fun" readable; coins
+  visible. No defects found.
+
+### S1 — "CALLED IN SICK, NEVER WENT BACK" (sick-day alternative)
+
+- File: `drafts/meme-v3-sick-a.png` — 1024x1024 PNG, sha256
+  8367ffa77eb54305bf43cf09007828ff9229b188fc7f0bb2ab0ffce2173c63ff
+- Raw 1600px generation kept as
+  `drafts/media-generation-meme-v3-sick-a-0-d7821eac-fe1f-43d4-8867-a041558eec4c.png`
+- Concept: the ghost in a bright modern office cheerfully hands
+  a resignation letter reading "I QUIT" to a small, surprised
+  boss; a GTA VI poster on the wall; plain gold coins on the
+  desk. It called in sick for launch day and quit, because
+  make.fun pays better. NOT a doctor's-note image: the letter is
+  a resignation, and no medical imagery appears anywhere.
+- Exact in-image text: "CALLED IN SICK FOR GTA VI LAUNCH."
+  (top, two lines) / "NEVER WENT BACK." (bottom) / "I QUIT" on
+  the letter / poster "grand theft auto VI / WELCOME TO LEONIDA"
+  / "make.fun" wordmark bottom-right. All spelled correctly.
+- Ghost: white, thick black outline, two black four-pointed
+  sparkle eyes clearly visible (with small white glints), smiling
+  mouth, holding the magenta star coin. Dominant, center frame;
+  boss small and secondary.
+- Guardrail check: PASS. Coins plain, no amounts, no receipts,
+  no screens. No dollar/USDC figure anywhere.
+- Originality: resignation twist is not on the board's taken
+  list (no doctor's note, no queue/boss-in-line angle — the boss
+  here is the resignation recipient, not a queue rival; no
+  download bar, no prison).
+- 480px check (`drafts/check480/meme-v3-sick-a-480.png`): PASS.
+  Both headlines + "I QUIT" readable; ghost unmistakable;
+  "make.fun" readable; coins visible. Poster text is small at
+  480px (background detail only — acceptable).
+- Minor defect (not fixed, not worth a fix call): the wall
+  poster's title renders as "gRand theft auto VI" with odd
+  mixed-case capitalization. Background detail, barely legible
+  at 480px, does not touch the joke.
+
+### Contact sheet
+
+- `drafts/contact-sheet-v3.png` — W2 (left) + S1 (right) side by
+  side, 1024x512, sha256
+  7ff46b0ce76514e4378197614aee52c5f14a02fd013e79f7502dac29ae29b624
+  (2 drafts only — W1 does not exist.)
+
+### Drafter's ranking (my own judgment)
+
+1. **S1 (sick-a) — strongest draft.** The joke lands in one beat:
+   "called in sick, never went back" + the "I QUIT" letter is a
+   visual punchline that needs no setup. The ghost is the biggest
+   and most central of the two drafts, the bottom line is the
+   shortest and punchiest, and the resignation twist is original
+   within the proven sick-day lane (11/50). Cleanest composition
+   at 480px.
+2. **W2 (wait-b) — close second.** The birthday device is
+   charming and original, and the wait anchor is the most direct
+   of any draft ("13TH BIRTHDAY" IS the 13-year wait). Slightly
+   weaker than S1 because the joke needs two inferential steps
+   (birthday = 13 years waiting, then present = paid) and the
+   bottom line is the longest text in either draft.
+3. **W1 — not ranked (does not exist).**
+
+STRATEGIC NOTE (tension to flag, not to resolve here): Eva
+prioritized the 13-year wait as the MAIN anchor and sick-day as
+the alternative. By draft strength I rank S1 first — but W2 is
+the only wait draft that exists, so if the team wants to test
+the wait hypothesis as Eva directed, W2 is the vehicle. Draft
+strength and strategic priority point at different drafts; the
+peli/bontot evaluation + Eva's verdict should decide.
+
+### Untouched
+
+- `meme.png`, `POST.json`, `main.ts`, `README.md`, `LICENSE`
+  untouched. No commit, push, submit, X post, or recording.
+  `drafts/meme-v2-scene*.png` and `drafts/meme-v1.png` untouched.
+
+### Status after drafts
+
+Two entry-2 drafts ready for independent peli/bontot evaluation
+(W2 wait, S1 sick-day). W1 (main time-split) missing due to a
+failed, unretryable generation — parent decision needed on
+whether to re-brief it, proceed with W2 as the wait candidate,
+or proceed with S1. No submission before Eva's approval.

@@ -1,65 +1,139 @@
-# Meme GTA 6 yang beredar di sosmed — referensi entry 3 (riset 20 Nov ~02:35 WIB)
+# GTA 6 memes circulating on social media — entry 3 reference (researched 20 Nov, ~02:35 WIB)
 
-Sumber: social.search (Instagram/Threads/Facebook, sejak 15 Nov 2026) + browser.search.
-Tujuan: referensi format/joke yang SUDAH viral di launch week, bukan teori.
-Deadline bounty: 23 Nov 21:00 WIB. Kuota terpakai 2/10. Entry 3 BUTUH evaluasi strategis baru (Eva) sebelum build/submit.
+Where this came from: social.search across Instagram, Threads and
+Facebook (posts since 15 Nov 2026), plus browser.search. The point
+was to find formats and jokes that are ALREADY viral during launch
+week — real circulating material, not theory.
+Bounty deadline: 23 Nov 21:00 WIB. Quota used at research time:
+2/10. Entry 3 needed a fresh strategic evaluation (Eva) before any
+build or submit.
 
-## 1. GTA FLU (sick day) — TREN TERBESAR launch week
-- Konsep: pura-pura sakit di hari launch 19 Nov. Mock surat dokter, email perusahaan palsu.
-- Bukti viral:
-  - Xbox + DJ Khaled: surat dokter palsu "Dr. Xbox" — diagnosis "Vitamin G deficiency", resep: libur sehari.
-  - @droidbuilds (X, 18 Nov): email manager palsu — melarang cuti sakit di launch day, lalu dia sendiri ambil "scheduled health screening". Ribuan likes dalam jam.
-  - House of Highlights (58M followers): video "GTA in 3 days, time to start laying the groundwork" — pura-pura batuk di kantor. 64K likes.
-  - IGN reel: "two seconds after telling my boss i'm sick" — karakter lari gembira. 22K likes.
-  - BambooHR: pengajuan PTO 19 Nov +13% di atas hari biasa.
-  - KFC Australia: pemakaman fiktif "Ann Alibi" (lahir 28 Nov 1997 = rilis GTA pertama).
-- Sumber: https://meme.com/memes/gta-flu
-- Penilaian: jalur sick-day sudah terbukti di board (11 dari top 50). Format DOKUMEN (surat dokter/resep) = format yang sama dengan struk rank 4. Ghost bisa jadi DOKTER yang menandatangani surat — ghost punya PERAN, bukan stiker. Kandidat terkuat.
-- Catatan: draft S1 sick-day kita dulu ditolak user karena terlalu clever/multi-step. Versi ini harus MINIMAL: satu surat dokter, satu joke.
+## 1. GTA Flu / sick day — the biggest launch-week trend
+- The bit: fake being sick on launch day, 19 Nov. Fake doctor's
+  notes and fake company emails.
+- Proof it is viral:
+  - Xbox teamed with DJ Khaled on a fake doctor's note signed
+    "Dr. Xbox" — diagnosis "Vitamin G deficiency", prescription:
+    take the day off.
+  - @droidbuilds on X (18 Nov): a fake manager email banning sick
+    leave on launch day, then the same manager taking a
+    "scheduled health screening" himself. Thousands of likes
+    within hours.
+  - House of Highlights (58M followers): a video captioned "GTA
+    in 3 days, time to start laying the groundwork" — fake
+    coughing in the office. 64K likes.
+  - An IGN reel: "two seconds after telling my boss i'm sick" —
+    a character running off happily. 22K likes.
+  - BambooHR data: PTO requests for 19 Nov up +13% over a normal
+    day.
+  - KFC Australia staged a fictional funeral for "Ann Alibi"
+    (born 28 Nov 1997, the release date of the first GTA).
+- Source: https://meme.com/memes/gta-flu
+- Assessment: the sick-day lane is already proven on the board
+  (11 of the top 50). The DOCUMENT format (doctor's note /
+  prescription) is the same family as the rank-4 receipt. The
+  ghost could BE the doctor signing the note — the ghost would
+  have a ROLE, not sit there as a sticker. Strongest candidate.
+- Caveat: our earlier S1 sick-day draft was rejected by the user
+  for being too clever and multi-step. This version has to be
+  MINIMAL: one doctor's note, one joke.
 
-## 2. DOWNLOAD 212 GB
-- Konsep: ukuran download GTA VI 212 GB — nunggunya lama banget.
-- Bukti viral: Paddy Pimblett (UFC, 6.5M followers) — foto TV PS5: download 37.6% (79.9 GB dari 212 GB). 140K likes. Komentar: "Bro gonna be 500 pounds by the time it loads."
+## 2. The 212 GB download
+- The bit: GTA VI is a 212 GB download — the wait is absurdly
+  long.
+- Proof it is viral: Paddy Pimblett (UFC, 6.5M followers) posted
+  a photo of his PS5 TV: download at 37.6% (79.9 GB of 212 GB).
+  140K likes. Top comment: "Bro gonna be 500 pounds by the time
+  it loads."
 - URL: https://www.instagram.com/p/Df7tX7Vh16H/
-- Penilaian: jalur download ada 7 dari top 50. Angka 212 GB spesifik + visceral. Konsep mentah: progress bar 1% + "ESTIMATED TIME: LONGER THAN THE 13-YEAR WAIT". Perlu ghost punya peran (misal ghost yang nungguin download / ghost yang udah main duluan).
+- Assessment: the download lane holds 7 of the top 50. The 212 GB
+  number is specific and visceral. Raw idea: a progress bar at
+  1% with "ESTIMATED TIME: LONGER THAN THE 13-YEAR WAIT". The
+  ghost still needs a role (e.g. the ghost waiting on the
+  download, or the ghost already playing).
 
-## 3. PEMAKAMAN "WE GOT X BEFORE GTA 6" — joke-nya MATI karena game-nya RILIS
-- Konsep: meme legendaris "we got X before GTA 6" resmi mati sekarang game-nya keluar. Video pemakaman simbolis.
-- Bukti viral: Jeremy Lynch reel (7.2M followers) — mengubur print-out "We got this before GTA 6!" di kuburan, nisan "RIP GONE BUT NOT FORGOTTEN 2026". 420K likes. Kotaku: "RIP To 'We Got X Before GTA 6' Memes."
+## 3. Burying "We got X before GTA 6" — the joke itself is DEAD now that the game is OUT
+- The bit: the legendary "we got X before GTA 6" meme is
+  officially dead now that the game has launched. Symbolic
+  funeral videos.
+- Proof it is viral: Jeremy Lynch's reel (7.2M followers) —
+  burying a print-out reading "We got this before GTA 6!" in a
+  graveyard, headstone "RIP GONE BUT NOT FORGOTTEN 2026". 420K
+  likes. Kotaku ran the headline: "RIP To 'We Got X Before
+  GTA 6' Memes."
 - URL: https://www.instagram.com/reel/Df4n2XYokcL/
-- Penilaian: twist segar di jalur wait (22 dari top 50 — paling ramai). GHOST di pemakaman = casting yang natural (hantu yang berduka untuk meme mati). Risiko: butuh penonton kenal meme "before GTA 6" — tapi itu meme GTA paling terkenal sedekade, dan juri AI pasti kenal. Kandidat kuat #2.
+- Assessment: a fresh twist on the wait lane (22 of the top 50 —
+  the busiest lane). A GHOST at a funeral is natural casting (a
+  ghost mourning a dead meme). Risk: it needs the viewer to know
+  the "before GTA 6" meme — but that is the most famous GTA meme
+  of the decade, and the AI judge certainly knows it. Strong
+  candidate #2.
 
-## 4. GTA 6 CONTRACT (perjanjian launch week)
-- Konsep: kontrak bercanda dengan pasangan — "19–29 Nov, gua main GTA VI sepuasnya. Dilarang jalan di depan TV saat heist."
-- Bukti viral: Reddit r/GTA u/dontfwithme99 (Jul 2026), Dexerto 1 Jul, The Tab 6 Nov ("contracts have been going viral for months").
-- Sumber: https://viralmeme.ai/meme/gta-6-contract
-- Penilaian: format DOKUMEN lagi (terbukti di board). Ghost bisa jadi saksi/penandatangan. Tapi peran ghost tipis kalau cuma tanda tangan — perlu dipikir.
+## 4. The GTA 6 Contract (launch-week agreement)
+- The bit: a joke contract with your partner — "19–29 Nov, I
+  play GTA VI as much as I want. Do not walk in front of the TV
+  during a heist."
+- Proof it is viral: Reddit r/GTA u/dontfwithme99 (Jul 2026),
+  Dexerto 1 Jul, The Tab 6 Nov ("contracts have been going viral
+  for months").
+- Source: https://viralmeme.ai/meme/gta-6-contract
+- Assessment: the DOCUMENT format again (proven on the board).
+  The ghost could be a witness or a signatory. But the ghost's
+  role is thin if it only signs — needs thinking through.
 
-## 5. HOTEL ROOM GUY
-- Konsep: cowok sewa kamar hotel seminggu biar bisa main tanpa gangguan — "My wife thinks I'm crazy and/or unfaithful."
-- Bukti viral: r/GTA6unmoderated u/Impossible_Bus_2319; repost Pubity (45M followers) 330K likes.
+## 5. Hotel Room Guy
+- The bit: a guy rents a hotel room for a week so he can play
+  undisturbed — "My wife thinks I'm crazy and/or unfaithful."
+- Proof it is viral: r/GTA6unmoderated u/Impossible_Bus_2319;
+  reposted by Pubity (45M followers), 330K likes.
 - URL: https://www.instagram.com/p/Df2obM0Df4a/
-- Penilaian: SANGAT visceral (satu perasaan: obsesi). Tapi fotonya orang beneran — tidak bisa dipakai langsung; konsepnya bisa diadaptasi jadi ilustrasi (ghost check-in hotel + PS5). Jual make.fun-nya lemah, risiko multi-step.
+- Assessment: VERY visceral (one feeling: obsession). But the
+  photo is a real person — it cannot be reused directly; the
+  concept could be adapted as an illustration (ghost checking
+  into a hotel with a PS5). The make.fun sell is weak, and
+  multi-step risk is high.
 
-## 6. 30 FPS ROAST
-- Konsep: Rockstar konfirmasi 10 Nov — GTA 6 target 30 FPS di SEMUA konsol termasuk PS5 Pro. Roast: "beli PS5 Pro cuma buat GTA 6, tetap 30 FPS."
-- Bukti viral: 10 post X viral, total ~400K likes. @DiscussingFilm 66.6K, @JudgementKazzer 73K (Kojima jalanin Death Stranding 2 di 60 FPS di PS5 launch).
-- Sumber: https://lazybatman.com/2026/11/13/gta-6-30-fps-memes-graphics-trolled/
-- Penilaian: TIDAK ada di daftar topik spesifik juri (wait, delay, sick day, download, harga, Leonida, Vice City, Jason/Lucia). Jalur berisiko — juri bisa anggap kurang "about GTA 6 specifically" dibanding jalur lain. Laporkan saja, jangan diprioritaskan.
+## 6. The 30 FPS roast
+- The bit: Rockstar confirmed on 10 Nov that GTA 6 targets
+  30 FPS on ALL consoles, including the PS5 Pro. The roast: "buy
+  a PS5 Pro just for GTA 6, still 30 FPS."
+- Proof it is viral: 10 viral X posts, ~400K likes total.
+  @DiscussingFilm 66.6K, @JudgementKazzer 73K (Kojima running
+  Death Stranding 2 at 60 FPS on a launch PS5).
+- Source: https://lazybatman.com/2026/11/13/gta-6-30-fps-memes-graphics-trolled/
+- Assessment: NOT on the judge's list of GTA-6-specific topics
+  (wait, delays, sick days, download size, price, Leonida /
+  Florida energy, Vice City, Jason and Lucia). A risky lane —
+  the judge could score it as less "about GTA 6 specifically"
+  than the other lanes. Report it, don't prioritize it.
 
-## 7. "WHAT OTHERS DO vs WHAT I DO" (GTA Sims)
-- Konsep: orang lain heist/kejar-kejaran polisi, gua malah renovasi rumah, main basket, angkat beban di GTA 6. "GTA 6 is a man training simulator."
-- Bukti viral: 9GAG carousel (55M followers), 190K likes.
+## 7. "What others do vs what I do" (GTA Sims)
+- The bit: everyone else does heists and police chases; I
+  renovate my house, play basketball and lift weights in GTA 6.
+  "GTA 6 is a man training simulator."
+- Proof it is viral: a 9GAG carousel (55M followers), 190K
+  likes.
 - URL: https://www.instagram.com/p/Df7I5tdEUhO/
-- Penilaian: lucu tapi joke-nya soal perilaku gameplay — susah dikawinkan dengan make.fun tanpa multi-step.
+- Assessment: funny, but the joke is about gameplay behaviour —
+  hard to marry with make.fun without going multi-step.
 
-## YANG MATI / JANGAN DIPAKAI
-- "We got X before GTA 6" sebagai joke langsung — SUDAH MATI (lihat #3). Yang hidup adalah PEMAKAMANNYA.
-- "GTA 6 save us" / doomerism GOTY — gelap, tidak menjual make.fun.
-- Mandy/Jason breakup texts ("too close to home") — lucu tapi konten dewasa/toksik, susah di-make.fun-kan.
+## DEAD / DO NOT USE
+- "We got X before GTA 6" as a straight joke — DEAD (see #3).
+  What lives is the FUNERAL of it.
+- "GTA 6 save us" / doomer GOTY takes — dark, doesn't sell
+  make.fun.
+- Mandy/Jason breakup texts ("too close to home") — funny, but
+  adult/toxic content, hard to make.fun-ify.
 
-## RINGKASAN STRATEGI
-- Jalur yang terbukti di board + viral di sosmed: sick-day (GTA Flu), download (212 GB), wait-twist (pemakaman meme).
-- Format DOKUMEN (struk/surat/kontrak) sudah terbukti menang di board (rank 4 struk) — GTA Flu surat dokter dan Contract mengikuti format yang sama.
-- Prinsip user: MINIMAL + VISCERAL, satu perasaan, tanpa langkah inferensi. Ghost harus punya PERAN di dalam joke, bukan stiker.
-- Langkah berikut (kalau user setuju arahnya): pilih 1 jalur → draft → evaluasi peli/bontot → Eva approve → baru build/submit. TIDAK ada build sebelum itu.
+## STRATEGY SUMMARY
+- Lanes proven on the board AND viral on social: sick-day (GTA
+  Flu), download (212 GB), wait-twist (meme funeral).
+- The DOCUMENT format (receipt / note / contract) is already
+  proven to win on the board (rank-4 receipt) — the GTA Flu
+  doctor's note and the Contract follow the same format.
+- The user's principle: MINIMAL + VISCERAL, one feeling, no
+  inference steps. The ghost must have a ROLE inside the joke,
+  not be a sticker.
+- Next steps (if the user agrees with the direction): pick 1
+  lane → draft → peli/bontot evaluation → Eva approves → only
+  then build/submit. NO build before that.

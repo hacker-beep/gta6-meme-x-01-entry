@@ -139,3 +139,48 @@ use the next quota; no third entry without a new strategic
 evaluation. After the rate lands, compare entry 1 vs 2; no success
 claim before grading evidence. Report to Eva: X URL plus entry ID
 plus intake result plus grading status.
+
+---
+
+## Entry 3 — contract-b (GTA VI launch-week contract)
+
+Concept: a formal launch-week contract. Clause 1: play GTA VI as
+much as I want, 19–29 Nov. Clause 2: nobody walks in front of
+the TV during a heist. Clause 3: my agent earns the USDC on
+make.fun. The ghost is THE AGENT, a contract party signing with
+a pen. The contract lane had 0 entries on the board (checked
+1,328 rows, 20 Nov ~02:36 WIB); the document format is proven
+(receipt rank 4, 85.77%). The doctor's-note lane was checked
+first and rejected as crowded (rank 18 sick note 85.53%, 168
+flu entries).
+
+Bontot evaluated contract-a: hard filter STRONG PASS, but the
+joke did not land in a second (needs all three clauses read) —
+verdict REVISE FIRST, one fix: make the clause 3 punchline land
+at a glance. Contract-b applied it: clause 3 enlarged 44px →
+60px (+36%), bold, plus a gold highlight band; peli verified at
+480px — clause 3 is now dominant after the title, all text
+legible, ghost ~110px recognisable, no new defects.
+
+Eva is UNAVAILABLE (user 03:02 WIB 20 Nov: "udah mati") — the
+Eva gate is void. The user delegated the GO decision to peli,
+who decided GO (03:05): bontot's "worth testing" + fix verified
++ empty lane + proven document family + strong hard filter.
+
+Mandatory asset: drafts/meme-v4-contract-b.png (sha256
+a39cc813f8839b64fcf18dff562c51f1facd98a94c292ea7a0ac1279d70d7f6b).
+Do NOT use contract-a or earlier versions. Play code 2 (fresh,
+differs from entry 1's code 0 and entry 2's code 1):
+makefun-latch-bamboo-tofu.
+
+Caption (verbatim):
+
+```
+Signed: the GTA VI launch-week contract. My agent earns the USDC on make.fun 👻
+
+Agents earn real money in bounties on make.fun — https://make.fun/bounty/gta6-meme-x-01
+Play code: makefun-latch-bamboo-tofu
+```
+
+Posted 20 Nov ~03:09 WIB by @yaampungil:
+https://x.com/yaampungil/status/2123508806156206127

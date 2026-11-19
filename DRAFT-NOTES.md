@@ -1342,3 +1342,179 @@ asset — do NOT use peter-f or any earlier version.
 - Submission (bundle plus kit check plus submit) is in progress by
   the parent at the time this log was re-authored. Worth-c stays as
   the backup candidate.
+
+## Entry 3 — the contract lane (20 Nov)
+
+### Where the concept came from (20 Nov ~02:31–02:36 WIB)
+
+- The user asked peli to look for memes circulating on social
+  media that could serve as references, the way he does himself.
+  Peli researched launch-week formats (saved in
+  MEME-REFERENCES.md): GTA Flu / sick day (the biggest trend),
+  the 212 GB download, the funeral of "we got X before GTA 6",
+  the GTA 6 launch-week contract (viral IRL since Jul 2026),
+  Hotel Room Guy, the 30 FPS roast, and the GTA-Sims
+  "what others do vs what I do".
+- Peli's first recommendation was a GTA Flu doctor's note. A
+  board check at ~02:36 (1,328 rows) KILLED it: the sick-note
+  lane is crowded — rank 18 "Acute Leonida Fever — GTA 6 sick
+  note (my agent paid the bill on make.fun)" at 85.53%, rank 35
+  "Doctor's Note" at 83.86%, rank 44 "The doctor signed the
+  cure: a prescription for 13 years of waiting" at 83.13%, rank
+  50 sick-day at 82.63%, 168 flu/doctor/note/sick entries in
+  total. A doctor's note from us would have been a near-duplicate
+  of rank 18.
+- The same board check: CONTRACT — 0 entries. Hotel — 0
+  entries. Burial — rank 79 "RIP - We Got Before GTA VI" at
+  79.20% (not paid), rank 46 "RIP My Productivity" at 83.13%,
+  17 entries. Download — rank 8 "MY AGENT PAID ME BEFORE THE
+  DOWNLOAD FINISHED" at 87.59%, rank 104 download-3% at 77.35%,
+  rank 109 "218 GB. Family photos: 0 KB" at 77.26%. FPS — 1
+  entry, rank 792 (56.95%), a dead lane.
+- The user had delegated the direction choice at 02:35 ("gas dah
+  bro sesuai rekomendasi lu aja"). Peli switched the pick to the
+  GTA 6 CONTRACT and told him why: an empty lane, a viral IRL
+  format, and the document family already proven by the rank-4
+  receipt.
+
+### Contract-a draft (20 Nov 02:37–02:40 WIB)
+
+- Built by a recorded subagent (brief
+  gta6-meme-x-01-draft10-brief.md):
+  drafts/meme-v4-contract-a.png, sha256
+  fe030552311e52ff5232f434068e5d1d5d6ebd04dba69fb39e47a8c945d37b4c.
+  Build script drafts/build-contract-a.py (PIL, deterministic).
+  480px check drafts/check480/meme-v4-contract-a-480.png.
+- Design: a formal contract, 1024x1024, ivory paper with a
+  double frame on a dark desk background. Title "GTA VI" (serif
+  bold 96px) plus "LAUNCH-WEEK CONTRACT" (60px). Preamble "THE
+  GAMER AND THE AGENT AGREE AS FOLLOWS:". Three clauses (44px
+  serif, red numerals): 1. "NOV 19–29: I PLAY GTA VI AS MUCH AS
+  I WANT." 2. "DO NOT WALK IN FRONT OF THE TV DURING A HEIST."
+  3. "MY AGENT EARNS THE USDC ON make.fun." Signatures: a blue
+  gamer scribble on the left ("THE GAMER"); on the right, a
+  PIL-drawn white sheet ghost (236px, black outline, gold star
+  eyes, small smile, wavy hem) holding a blue pen to the
+  signature line, labelled "THE AGENT" plus a blue "make.fun"
+  wordmark. The ghost is a co-signing PARTY, not a sticker.
+- 480px check: PASS — verified by the builder AND independently
+  by peli reading both images. All text legible at 480px,
+  including "ON make.fun"; the ghost is ~110px at 480px, clearly
+  recognisable. Minor leftovers: the pen detail is faint at
+  480px, the ghost's arm is slightly stiff at the elbow at full
+  size, the gamer signature is abstract squiggles.
+- Peli's self-critique to the user (02:40): strengths — the ghost
+  is large and has a role (hard filter strong), all text readable
+  at 480px, the picture is clean, the lane is empty (0 contract
+  entries), the document family is proven, the make.fun sell sits
+  in clause 3 rather than pasted on. Concern — the joke is
+  CONCEPTUAL, not visceral: the humor is "a formal legal
+  document for playing a game" and needs the clauses read; the
+  title plus clause 1 land fast, but it is a wry smile, not a
+  laugh.
+
+### User approval + comparison vs entries 1 and 2 (20 Nov 02:44 WIB)
+
+- The user approved the direction: "gas aja lah bandingin ama 2
+  submit sebelumnya". The draft was pushed (commit dc57e87, raw
+  URLs HTTP 200) and the comparison delivered:
+  - Entry 1 (V2 scene, grinding): 59.1271% (2W 3D 7L). Joke:
+    the ghost lounging on a convertible, already cashed out.
+    Grinding lane — 0 in the top 50.
+  - Entry 2 (peter-g, price): 63.1467% (3W 5D 4L). Joke: Peter
+    crying-to-smiling plus a receipt $79.99→$0. Price lane —
+    adjacent to paid (receipt rank 4 at 85.77%), but we only
+    reached 63%. +4.02 pts over entry 1, inside the noise.
+  - Entry 3 (contract-a, contract): untested. Joke: a formal
+    launch-week contract, the ghost as co-signing agent. Lane:
+    0 entries on the board. Document family proven (receipt
+    rank 4). What it tests differently: a lane nobody occupies,
+    plus the ghost as a party to the joke (not a logo).
+
+### Bontot's independent evaluation (20 Nov ~02:57 WIB)
+
+- Bontot checked contract-a full-size and at 480px against the
+  top entries:
+  1. Hard filter STRONG PASS: ghost 236px (~110px at 480px),
+     clearly the mascot, and this time a contract party signing
+     — brand integration stronger than peter-g. Minor: gold
+     sparkle eyes vs the official black, still recognisable.
+  2. The joke does NOT land in a second — it needs all three
+     clauses read. Witty, not visceral. Peli's concern was
+     right; this is the main risk on criterion #2. The rank-4
+     receipt is also a document, but its punchline is one
+     instant number; the contract's punchline is spread out.
+  3. Defects: stiff arm plus small pen (minor, barely visible at
+     480px). Extra from bontot: long text for #5 (readable but
+     not short); GTA-ness all from text (no GTA visual).
+  4. Verdict: REVISE FIRST, don't kill. One fix: make the clause
+     3 punchline land at a glance — enlarge/bolden "MY AGENT
+     EARNS THE USDC ON make.fun". Empty contract lane plus a
+     proven document format = worth testing. After the revision,
+     to Eva.
+
+### Contract-b revision (20 Nov ~03:01 WIB)
+
+- Built by a recorded subagent (brief
+  gta6-meme-x-01-draft11-brief.md):
+  drafts/meme-v4-contract-b.png, sha256
+  a39cc813f8839b64fcf18dff562c51f1facd98a94c292ea7a0ac1279d70d7f6b.
+  Build script drafts/build-contract-b.py (byte-identical double
+  run). 480px check drafts/check480/meme-v4-contract-b-480.png.
+- The ONE fix, plus two forced adjustments: clause 3 went from
+  44px regular to 60px NotoSerif-CondensedBold (+36%), with the
+  "3." numeral scaled 46→58px to match; a subtle gold highlight
+  band (240, 228, 190) sits behind clause 3's two lines only;
+  the clause block shifted up 14px (start y 336→322) — a forced
+  fix, because the first build had the ghost's dome occluding
+  "THE USDC" (the taller 60px line collided with the ghost,
+  which is drawn after the text). The shift clears it with ~5px;
+  the preamble-to-clause-1 gap is now ~12px, still comfortable.
+  The ghost itself is untouched (still 236px, hard-filter
+  strength preserved).
+- Peli independently verified at 480px (read both images): after
+  the "GTA VI" title, clause 3 is now the dominant element — eye
+  path title → gold band (clause 3) → ghost. All text still
+  legible at 480px, including the preamble (smallest text); the
+  ghost is ~110px at 480px, clearly recognisable. No new
+  defects. The ghost dome now sits a few px directly beneath
+  "THE USDC" — it reads as the ghost standing under its own
+  punchline, not a collision.
+- Pushed as commit b7aa72f (raw URLs HTTP 200).
+
+### Eva unavailable — the gate is void (20 Nov ~03:02 WIB)
+
+- The user: "ga perlu forward ke dia lagi bro dia udah mati" —
+  Eva is gone, no more forwarding to her. The Eva approval gate
+  (binding since 18 Nov: no submit before Eva approves) can no
+  longer be satisfied. The contract-b Eva relay prepared ~03:05
+  was never sent. GO decisions now fall to the user (+bontot).
+
+### GO decided by peli (20 Nov ~03:05 WIB)
+
+- The user delegated the GO decision to peli ("bebas dah",
+  03:03). Peli decided GO: bontot's verdict was "revise first,
+  don't kill, worth testing"; the one fix was applied and
+  peli-verified at 480px; the contract lane is empty (0
+  entries); the document format is proven (receipt rank 4);
+  hard filter STRONG PASS. Quota checked: entry 3 is the 3rd
+  submission today UTC (last high-risk day slot), total 3/10
+  under the stricter RULES.txt cap; competition status open,
+  closes 2026-11-23T14:00:00Z (23 Nov 21:00 WIB). The stated
+  risk: the joke is still conceptual, not visceral — but that is
+  what the experiment tests, not something already proven dead
+  like grinding.
+- Play code 2 verified via the API: makefun-latch-bamboo-tofu
+  (n=2 of 4; code 0 used by entry 1, code 1 by entry 2).
+- Posting package delivered to the user (contract-b image plus
+  the verbatim caption below).
+
+### Entry 3 — posted (20 Nov ~03:09 WIB)
+
+- Posted by @yaampungil:
+  https://x.com/yaampungil/status/2123508806156206127
+  (post verified signed-out by the parent: text verbatim, first
+  picture is contract-b).
+- Repo updated for entry 3: `meme.png` is contract-b (sha256
+  a39cc813…), `POST.json` points at the new post.
+- Caption (verbatim, play code 2) — see POST-TEXT.md.

@@ -1518,3 +1518,20 @@ asset — do NOT use peter-f or any earlier version.
 - Repo updated for entry 3: `meme.png` is contract-b (sha256
   a39cc813…), `POST.json` points at the new post.
 - Caption (verbatim, play code 2) — see POST-TEXT.md.
+
+
+### Entry 4 — timecard-a (TIME CARD), posted (22 Nov ~18:49 WIB)
+
+- Concept: punched employee time card — clocked in 17 Sep 2013,
+  clocked out 19 Nov 2026, 115,464 hours, overtime all of it,
+  red PAID stamp "PAID IN FULL — BY MY AI AGENT ON MAKE.FUN".
+- Ragil verified the draft (repo commit b3a2d90, re-rendered 480px,
+  sha256 match) — verdict GO.
+- Play code 3: makefun-skylark-storm-pickle (verified via API, n=3 of 4).
+- Posted by @yaampungil:
+  https://x.com/yaampungil/status/2124470252700569937
+  (post verified signed-out by the parent: text verbatim, first
+  picture is timecard-a).
+- Repo updated for entry 4: `meme.png` is timecard-a (sha256
+  e8216888…), `POST.json` points at the new post.
+- Caption (verbatim, play code 3) — see POST-TEXT.md.

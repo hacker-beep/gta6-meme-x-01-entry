@@ -1535,3 +1535,27 @@ asset — do NOT use peter-f or any earlier version.
 - Repo updated for entry 4: `meme.png` is timecard-a (sha256
   e8216888…), `POST.json` points at the new post.
 - Caption (verbatim, play code 3) — see POST-TEXT.md.
+
+
+### Entry 5 — timecardv2-a (TIME CARD V2), posted (22 Nov ~20:32 WIB)
+
+- Concept: entry 4's proven time card frame plus one sharp
+  punchline — a manager's note: "APPROVED FOR RETIREMENT — CLOCKED
+  OUT BEFORE IT SHIPPED." Everything else kept: LEONIDA TIMEKEEPING
+  CO. letterhead with ghost logo, clock in 17 SEP 2013 / clock out
+  19 NOV 2026, giant 115,464 center-frame, OVERTIME: ALL OF IT,
+  RATE $0.00/HR, TOTAL DUE $79.99, red PAID stamp. The punchline
+  answers the judge's entry-4 critique ("clever infographic more
+  than a punchline" — dry). Draft meme-v11-timecardv2-a.png
+  (sha256 f5d4d07e…), 480px PASS, parent-verified.
+- No bontot verification: the user stopped the bontot-forward loop
+  for entry 5 (22 Nov ~20:28 WIB, relay fatigue) and ordered a
+  direct build + submit.
+- Play code 3 REUSED: makefun-skylark-storm-pickle (only 4 codes
+  exist; entry 5 reuses entry 4's code).
+- Posted by @yaampungil:
+  https://x.com/yaampungil/status/2124496238636925211
+- Repo updated for entry 5: `meme.png` is timecardv2-a (sha256
+  f5d4d07e…), `POST.json` points at the new post. Submitted as
+  entry 5, replacing entry 4 (most recent submission is final).
+- Caption (verbatim, play code 3) — see POST-TEXT.md.

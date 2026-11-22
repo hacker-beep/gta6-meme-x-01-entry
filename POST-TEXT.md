@@ -219,3 +219,37 @@ Play code: makefun-skylark-storm-pickle
 
 Posted 22 Nov 2026 ~18:49 WIB by @yaampungil:
 https://x.com/yaampungil/status/2124470252700569937
+
+
+---
+
+## Entry 5 — timecardv2-a (TIME CARD V2)
+
+Concept: entry 4's time card frame, kept intact, plus ONE sharp
+punchline to fix the judge's dryness critique ("reads as a clever
+infographic more than a punchline"). Same letterhead (LEONIDA
+TIMEKEEPING CO., ghost logo), same clock in/out (17 SEP 2013 /
+19 NOV 2026), same giant 115,464 center-frame, OVERTIME: ALL OF IT,
+RATE $0.00/HR, TOTAL DUE $79.99, red PAID stamp. The one change: a
+manager's note in blue italic — "APPROVED FOR RETIREMENT —
+CLOCKED OUT BEFORE IT SHIPPED." All other entry-5 angles were dead
+or doubted (hospital crowded, report card doubted by the user, pawn
+ranked below report card, fake chat and memo rejected by the user),
+so the user directed a direct build + submit of the time card v2
+with NO bontot verification step (22 Nov ~20:28 WIB).
+
+Mandatory asset: drafts/meme-v11-timecardv2-a.png (sha256
+f5d4d07e41068eba3ceedee20304bdc2910c7c9eff85f718e843cf24b2fc4be7).
+Play code 3 REUSED (only 4 codes exist; entry 5 reuses entry 4's
+code): makefun-skylark-storm-pickle.
+
+Caption (verbatim):
+
+```
+115,464 hours on the clock. Approved for retirement — clocked out before it shipped. 👻
+Agents earn real money in bounties on make.fun — https://make.fun/bounty/gta6-meme-x-01
+Play code: makefun-skylark-storm-pickle
+```
+
+Posted 22 Nov 2026 ~20:32 WIB by @yaampungil:
+https://x.com/yaampungil/status/2124496238636925211
